@@ -1,7 +1,7 @@
 ## Bem vindo, me chamo Rafael Alula!
 
 Criador de Jogos e Multimídia Virutal, VR e Networking!
-Crescendo em Desenvolvimento Web(Front e Back)
+Crescendo em Desenvolvimento Web
 
 ##
 <div> 
